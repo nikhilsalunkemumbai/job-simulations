@@ -24,9 +24,9 @@ Fraud detection, incident response, security awareness
 
 ## Additional Job Simulations
 
-- Tata Consultancy Services – IAM Job Simulation
-- Datacom – Cybersecurity Risk Assessment Simulation
-- Deloitte Australia – Cyber Job Simulation
-- Mastercard – Cybersecurity Job Simulation
-- Goldman Sachs – Internal Audit Job Simulation
-- Commonwealth Bank – Technology Explorer Job Simulation
+- Tata Consultancy Services – [IAM Job Simulation](./tata-iam.md)
+- Datacom – [Cybersecurity Risk Assessment Simulation](./datacom-risk.md)
+- Deloitte Australia – [Cyber Job Simulation](./deloitte-log-analysis.md)
+- Mastercard – [Cybersecurity Job Simulation](./mastercard-awareness.md)
+- Goldman Sachs – [Internal Audit Job Simulation](./goldman-internal-audit.md)
+- Commonwealth Bank – [Technology Explorer Job Simulation](./cba-tech-explorer.md)
