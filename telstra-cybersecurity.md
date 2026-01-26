@@ -1,5 +1,5 @@
 # Telstra AU – Cybersecurity Job Simulation
-**Completed: November 2025 | Platform: Forage**
+**Completed: November 2025 | Platform: Forage** 
 
 ## Overview
 Completed a cybersecurity job simulation focused on advanced incident response
